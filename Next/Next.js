@@ -36,7 +36,7 @@ export default class Next extends Sprite {
   }
 
   *whenthisspriteclicked() {
-    window.location.href = "https://lizziefernie.github.io/Emotions/";
+    window.location.href = "https://lizziefernie.github.io/EL1G2/";
   }
 
   *whenIReceiveResult() {
